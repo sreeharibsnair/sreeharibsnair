@@ -41,11 +41,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 
 ## 📊 GitHub Stats
@@ -62,6 +57,10 @@ Here are some ideas to get you started:
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F47421?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596be?style=for-the-badge&logo=metasploit&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15AABF?style=for-the-badge&logo=linux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 <p align="center">
