@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🔐 Passionate about **Cybersecurity & Ethical Hacking**  
 - 👨‍💻 Currently working on **Open-source security tools**  
 - 🌱 Learning **Cloud Security & DevSecOps**  
-- 📫 Reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+- 📫 Reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sreeharibsnair04@gmail.com)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sreehari.nairr)
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=chartreuse-dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=chartreuse-dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sreeharibsnair04&show_icons=true&theme=chartreuse-dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeharibsnair&layout=compact&theme=chartreuse-dark" height="180"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
@@ -69,10 +69,10 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://instagram.com/your_username">
+  <a href="https://instagram.com/sreehari.nairr">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:sreeharibsnair04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
