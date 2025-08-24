@@ -37,15 +37,16 @@ Here are some ideas to get you started:
 </div>
 
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+
 
 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreeharibsnair&show_icons=true&theme=chartreuse-dark" height="180"/>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeharibsnair&layout=compact&theme=chartreuse-dark" height="180"/>
 </p>
 
