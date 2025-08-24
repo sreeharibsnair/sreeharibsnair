@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 ## 🚀 About Me
-- 🔐 Passionate about **Cybersecurity & Ethical Hacking**  
-- 👨‍💻 Currently working on **Open-source security tools**  
-- 🌱 Learning **Cloud Security & DevSecOps**  
-- 📫 Reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sreeharibsnair04@gmail.com)
+- 🔐 Passionate about **Cybersecurity & Ethical Hacking** <br/> 
+- 👨‍💻 Currently working on **Open-source security tools**  <br/> 
+- 🌱 Learning **Cloud Security & DevSecOps**  <br/> 
+- 📫 Tap the below icons to reach me<br/> 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sreehari.nairr)
