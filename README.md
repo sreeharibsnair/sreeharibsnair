@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![<Badge instagram>](https://img.shields.io/badge/<Badge INSTAGRAM>-<Background green>?style=for-the-badge&logo=<Icon Instagram>&logoColor=<Logo white>)
+
 
 
