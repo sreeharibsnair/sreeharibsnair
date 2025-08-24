@@ -50,8 +50,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeharibsnair&layout=compact&theme=chartreuse-dark" height="180"/>
 </p>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
+</div>
 
 ## 🛡️ Cyber Arsenal
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
