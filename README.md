@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sreehari.nairr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sreehari.nairr)
-<a href="https://instagram.com/sreehari.nairr" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
-</a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sreeharibsnair04@gmail.com)
 
 
 
