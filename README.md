@@ -1,5 +1,7 @@
-<div align="center">
- Hi there 👋,Im Sreehari</div>
+<div align="center"><b>
+ Hi there 👋,Im Sreehari</b></div>
+ <br/>
+ 
 
 
 <!--
