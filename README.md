@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<p align="center">
-  <img src="https://i.gifer.com/Vp3.gif" alt="hacker animation" width="600"/>
-</p>
+
 
 
 
@@ -50,7 +48,6 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sreehari.nairr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeharibsnair04@gmail.com)
 
-<img src="https://i.gifer.com/7VE.gif" width="600" alt="hacker code rain"/>
 
 </div>
 
