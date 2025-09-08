@@ -12,7 +12,7 @@
 ## 🚀 About Me
 - 🔐 Passionate about **Cybersecurity & Ethical Hacking** <br/> 
 - 👨‍💻 Currently working on **Open-source security tools**  <br/> 
-- 🌱 Learning **Cloud Security & DevSecOps**  <br/> 
+- 🌱 Learning **Cloud Security & Threat Intelligence**  <br/> 
 - 📫 Tap the below icons to reach me<br/> 
 
 
@@ -20,11 +20,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeharibsnair04@gmail.com)
 
 </div>
-
-
-
-
-
 
 ## 📊 GitHub Stats
 
