@@ -16,7 +16,7 @@
 - 📫 Tap the below icons to reach me<br/> 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sreehari.nairr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sreeharibsnair)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeharibsnair04@gmail.com)
 
 </div>
